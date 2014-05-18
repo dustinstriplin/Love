@@ -12,7 +12,7 @@ public class Love {
 		scan.nextLine();
 		int i = 1;
 		while(LOVE) {
-			System.out.println("Jamie, I love you " + i + " times");
+			System.out.println("I love you " + i + " times");
 			i++;
 		}
 	}
